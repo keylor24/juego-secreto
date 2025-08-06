@@ -55,4 +55,4 @@ El objetivo es adivinar un número secreto aleatorio entre 1 y 10. El jugador ti
 
 ## Autor
 
-Desarrollado por **Keylor B** como práctica de fundamentos de JavaScript.
+Desarrollado por **Keylor** como práctica de fundamentos de JavaScript.
