@@ -32,27 +32,6 @@ El objetivo es adivinar un número secreto aleatorio entre 1 y 10. El jugador ti
 
 ---
 
-## Cómo ejecutarlo
-
-1. Clona el repositorio.
-2. Abre el archivo `index.html` en tu navegador.
-3. ¡Empieza a jugar!
-
----
-
-## Estructura del proyecto
-
-```
-📁 Proyecto
-│
-├── index.html        → Estructura del juego
-├── style.css         → Estilos del juego
-├── app.js            → Lógica y comportamiento del juego
-└── img/              → Imágenes usadas en la interfaz
-```
-
----
-
 ## Autor
 
 Desarrollado por **Keylor** como práctica de fundamentos de JavaScript.
